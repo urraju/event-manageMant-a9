@@ -1,0 +1,121 @@
+[
+    {
+      "id": 1,
+      "name": "Battle Royale Extravaganza PUBG",
+      "description": "Get ready for the ultimate battle royale experience in the Battle Royale Extravaganza event in PUBG! It's time to drop onto the island of Erangel once again, but this time, the stakes are higher than ever.",
+      "founderD" : "Brendan Greene, also known as PlayerUnknown, is the creative mind behind PUBG Mobile. He conceptualized the game based on his experience with creating various mods for other games, particularly the “Battle Royale” genre." ,
+      "founderName" : "Brendan Greene",
+      "details" : [
+        {
+            "date" : "November 15th to November 30th",
+            "location" : "Erangel Map",
+            "rules" : " In this event, you'll face off against other skilled players in intense battles across Erangel. Whether you prefer the heart-pounding rush of close-quarters combat or the calculated strategy of long-range engagements, this event has it all.",
+            "special_challange" : "Complete special in-game challenges during the event to earn exclusive rewards, including unique skins, emotes, and more.",
+            "team_play" : "Team up with friends or go solo - the choice is yours. Form alliances, strategize, and dominate the competition.",
+
+            "leader_bords" : "Keep an eye on the leaderboards to see how you stack up against the best players in the world. Can your squad claim the top spot? Join the ,Battle Royale Extravaganza, in PUBG and prove your skills as the last one standing in this thrilling, limited time event. Glory and rewards await those who emerge victorious!"
+
+        }
+      ],
+      "price": 49.99,
+      "img": " https://i.ibb.co/Jp3SsBC/pubg.webp"
+      
+    },
+    {
+      "id": 2,
+      "name": "Global Conflict: Warzone Showdown",
+      "description": " Brace yourself for the most intense warfare experience of the year in ,Global Conflict: Warzone Showdown, – the latest event in the Call of Duty series. In the midst of a world on the brink of chaos, it's up to you to make your mark on the battlefield.",
+      "details" : [
+        {
+            "date" : " December 1st to December 15th",
+            "location" : "Various iconic Warzone maps",
+            "rules" : " Engage in heart-pounding combat across a range of Warzone maps, each with its unique challenges and strategies. Adapt to dynamic environments and outsmart your adversaries.",
+            "special_challange" : "Undertake covert Special Ops missions to disrupt enemy operations and secure valuable intel. These missions will test your teamwork and combat skills.",
+            "team_play" : "Compete in daily Warzone tournaments for a chance to win exclusive in-game items, including weapon blueprints, operator skins, and more.",
+
+            "leader_bords" : "Ascend the leaderboards to prove your dominance and earn your place among the elite soldiers.Join ,Global Conflict: Warzone Showdown, and plunge into the heart of an epic global conflict. This event challenges you to rise above the chaos, emerge victorious, and etch your name into Call of Duty history. Are you up for the challenge?"
+
+        }
+      ],
+      "price": 29.99,
+      "img": "https://i.ibb.co/CKwBhJs/call-of-duty.jpg"
+       
+    },
+    {
+      "id": 3,
+      "name": "Survival Showdown: Rise of the Phoenix",
+      "description": "Prepare to embark on a fiery adventure like never before in ,Survival Showdown: Rise of the Phoenix, – a spectacular event in Garena Free Fire. In the heart of the battleground, heroes are born, legends are forged, and only the strongest will prevail.",
+      "details" : [
+        {
+            "date" : " January 10th to January 31st",
+            "location" : "Bermuda Map",
+            "rules" : "Dive into the Bermuda map, which has been transformed into an arena of fire and challenge. Face off against other survivors in intense battles where every decision counts.",
+            "special_challange" : " Take on the Phoenix Trials, a series of daring challenges that test your survival skills. Conquer obstacles, defeat foes, and emerge as the ultimate survivor",
+            "team_play" : "Team up with friends or form alliances with other survivors. Work together to overcome challenges and achieve victory.",
+
+            "leader_bords" : " Ascend the event leaderboards and prove your worth as a survivor. Top-performing players will be celebrated and rewarded.Join ,Survival Showdown: Rise of the Phoenix, in Garena Free Fire and become a legend in the arena of fire and glory. Face the heat, conquer the challenges, and emerge as the Phoenix's chosen champion. Do you have what it takes to rise from the ashes?"
+        }
+      ],
+      "price": 99.99,
+      "img": "https://i.ibb.co/dWGCCGV/free-fire.jpg"
+     
+    },
+    {
+      "id": 4,
+      "name": "Clash of Clean: Sanitation Showdown",
+      "description": "It's time to roll up your sleeves and put your cleaning skills to the test in the ,Clash of Clean: Sanitation Showdown. event! Join this unique challenge where cleanliness meets competition, and the tidiest reign supreme.",
+      "details" : [
+        {
+            "date" : "February 15th to February 28th",
+            "location" : "Various venues transformed into cleaning arenas",
+            "rules" : "Step into meticulously designed cleaning arenas where you'll face off against other participants in a race against the clock. Each arena represents a different cleaning challenge, from tackling cluttered rooms to mastering stain removal.",
+            "special_challange" : "Discover and utilize special cleaning tools and power-ups that can give you an edge in the competition. Vacuum faster, scrub smarter, and win bigger! Leaderboards , Ascend the cleaning leaderboards to become the undisputed champion of",
+            "team_play" : "Form teams with fellow participants or compete solo. Work together efficiently to complete cleaning tasks and earn bonus points.",
+
+            "leader_bords" : "  Ascend the cleaning leaderboards to become the undisputed champion of cleanliness. The neatest participants will be recognized and rewarded."
+        }
+      ],
+      "price": 39.99,
+      "img": "https://i.ibb.co/h2m9bQX/class-of-clan-2.webp"
+      
+    },
+    {
+      "id": 5,
+      "name": "Survivalist's Retreat: Fury of the Forest",
+      "description": "Dive deep into the heart of the forest and face the unknown in the ,Survivalist's Retreat: Fury of the Forest, event in Sons of the Forest. A mysterious force has awakened in the woods, and it's up to you and your fellow survivors to confront the impending danger.",
+      "details" : [
+        {
+            "date" : "April 1st to April 15th",
+            "location" : "Dense, untamed forest",
+            "rules" : "Uncover the forest's secrets, confront new and terrifying creatures, and secure valuable resources to survive.",
+            "special_challange" : "Embark on a series of perilous challenges that test your survival skills, including hunting, crafting, and base building. Team up with other players or go it alone to complete these tasks.",
+            "team_play" : "Join forces with other players worldwide to tackle global challenges that unlock special in-game events and bonuses.",
+
+            "leader_bords" : "Compete with fellow survivors on the event leaderboards, and see who can achieve the highest score and survive the longest. In Survivalist's Retreat: Fury of the Forest, you'll need to rely on your survival instincts, teamwork, and courage to navigate the forest's ever-evolving challenges and uncover its darkest secrets. Are you prepared to face the fury of the forest?"
+        }
+      ],
+      "price": 19.99,
+      "img": "https://i.ibb.co/Qk110wt/sons-of-the-forest.webp"
+       
+    },
+    {
+      "id": 6,
+      "name":  "Annihilation Showdown: Clash of Titans",
+      "description": "Prepare for the most intense and ruthless competition as you enter the, Annihilation Showdown: Clash of Titans. In this cutthroat event, only the strongest will survive and claim ultimate glory.",
+      "details" : [
+        {
+            "date" : "March 1st to March 15th",
+            "location" : "Specially designed arenas featuring diverse environments.",
+            "rules" : "Engage in fierce, no-holds-barred battles against other participants. The event features both team-based and solo modes, allowing you to choose your preferred playstyle.",
+            "special_challange" : "Dynamic environmental hazards and traps add an additional layer of complexity to the matches. Use them to your advantage or watch out for surprise attacks.",
+            "team_play" : " Engage in fierce, no-holds-barred battles against other participants. The event features both team-based and solo modes, allowing you to choose your preferred playstyle.",
+
+            "leader_bords" : " Climb the leaderboards by earning points for eliminations, wins, and overall performance. Prestigious titles and exclusive rewards await the top players."
+        }
+      ],
+      "price": 59.99,
+      "img": "https://i.ibb.co/q5f4WS4/anihalation.webp"
+     
+    }
+  ]
+ 
