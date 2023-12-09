@@ -1,7 +1,10 @@
  ## - Live Link : https://assignmant-9.web.app/
 
- ## Features : 
+ ## Gaming Event Managemant Service : 
  - Gaming Event Management for a website involves the planning and execution of online gaming events or activities. This can include online tournaments, virtual conventions, streaming events, and more. Key aspects of website-based gaming event management include:
+
+ ## Tecnologises :
+ - Tailwind, React, React Router, DiasyUi, Firebase, MongoDB, ExpressJS, NodeJS,AOS.
  
 <div align="center">
   <img height="60" src="https://edurev.gumlet.io/AllImages/original/ApplicationImages/CourseImages/944e5d47-8c55-4a89-91e5-22ab5f2798fc_CI.png">
